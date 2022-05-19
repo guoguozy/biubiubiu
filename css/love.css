@@ -34,6 +34,7 @@ body {
 }
 .body_kuaile{
     position: absolute;
+    left: 4%;
     bottom: 5%;
     width: 100%;
 }
